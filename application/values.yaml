@@ -8,7 +8,7 @@ image:
   repository: us-central1-docker.pkg.dev/prime-sign-387921/nodejs/nodejs
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "1.0.0"
+  tag: "master"
 
 imagePullSecrets: []
 nameOverride: ""
