@@ -1,5 +1,5 @@
 env:
-  repo:         "hhttps://github.com/edatop/nodejs.git"
+  repo:         "https://github.com/edatop/nodejs.git"
   app_version:  "1.0.0"
   project_id:   "prime-sign-387921"
   repo_region:  "us-central1"
