@@ -1,10 +1,10 @@
 replicaCount: 1
 
 image:
-  repository: us-central1-docker.pkg.dev/prime-sign-387921/nodejs/nodejs
+  repository: us-central1-docker.pkg.dev/prime-sign-387921/nodejs
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "2.0.0"
+  tag: "1.0.0"
 
 
 ingress:
